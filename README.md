@@ -1,5 +1,6 @@
-# Tutorial Psiphon Pro Unlimited & KPN Opok & Saweran Operator Telkomsel
+# Psiphon Pro Unlimited & KPN Opok & Saweran 
 
+# Operator Telkomsel
 
 # Tampilan Psiphon Pro Unlimited
 ![be](https://raw.githubusercontent.com/boychongzen18/OpokPlusSawer/master/popon.jpg)
